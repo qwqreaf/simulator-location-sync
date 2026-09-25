@@ -6,6 +6,10 @@
 
 一個輕量的 macOS 選單列 App，會定時將 Mac 的目前位置同步到 Xcode Device Hub 中所有已啟動的模擬器。
 
+## 執行畫面
+
+![Simulator Location Sync 設定畫面](docs/settings-window.png)
+
 ## 功能
 
 - 完全常駐於 macOS 選單列，不顯示在 Dock

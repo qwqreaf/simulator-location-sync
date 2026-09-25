@@ -6,6 +6,10 @@
 
 A lightweight macOS menu bar app that periodically synchronizes your Mac's current location to every booted simulator in Xcode Device Hub.
 
+## Screenshot
+
+![Simulator Location Sync settings](docs/settings-window.png)
+
 ## Features
 
 - Lives entirely in the macOS menu bar and stays out of the Dock
